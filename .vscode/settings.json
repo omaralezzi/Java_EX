@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": [
+    "Source-code-First-Steps-float-and-double-Primitive-Types/FloatAndDouble/src",
+    "Source-code-First-Steps-Assignment-Operator-VS-Equals-to-Operator/Operators/src/academy/learnprogramming",
+    "Source-code-First-Steps-byte,-short,-long-and-width/ByteShortIntLong/src/academy/learnprogramming"
+  ]
+}
